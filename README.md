@@ -67,15 +67,6 @@ I'm a third-year B.Tech student in Computer Science and Engineering (AI-ML) at P
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-### GitHub activity
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mallikarjunrao-sketch&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&icon_color=0D9488&text_color=334155" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjunrao-sketch&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=4F46E5&text_color=334155" alt="Top languages" />
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
-
 ### Connect with me
 
 <div align="center">
